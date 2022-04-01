@@ -9,7 +9,7 @@ env:
   REPOSITORY: "natthanicha2539/sadosoda-tutorial-frontend"
   APP_NAME: sadosoda-tutorial-frontend
   AZURE_WEB_APP_NAME: app-sadosoda-tutorial-frontend-dev-00
-  CONTAINER_REPOSITORY: "acrsadosodatutorial001.azurecr.io"
+  CONTAINER_REPOSITORY: "acrsodatutorial001.azurecr.io"
   IMAGE_TAG: "0.0.1-SNAPSHOT"
 
 jobs:
