@@ -16,7 +16,7 @@ jobs:
   build-and-deploy-app-service:
     name: Build and Deploy
     runs-on: ubuntu-latest
-    environment: env
+    environment: dev
     steps:
     - name: "Checkout pipelines"
       uses: actions/checkout@v2
